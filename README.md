@@ -47,27 +47,27 @@ npm build:prod
 
 <table>
   <tr>
-    <td><img src="./img/login.png" /></td>
+    <td><img src="./rain-ui-vue/img/log.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/index.png" /></td>
+    <td><img src="./rain-ui-vue/img/index.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/user.png" /></td>
+    <td><img src="./rain-ui-vue/img/user.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/role.png" /></td>
+    <td><img src="./rain-ui-vue/img/role.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/menu.png" /></td>
+    <td><img src="./rain-ui-vue/img/menu.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/dept.png" /></td>
+    <td><img src="./rain-ui-vue/img/dept.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/log.png" /></td>
+    <td><img src="./rain-ui-vue/img/log.png" /></td>
   </tr>
   <tr>
-    <td><img src="./img/online.png" /></td>
+    <td><img src="./rain-ui-vue/img/online.png" /></td>
   </tr>
 </table>
