@@ -25,7 +25,7 @@
 
 ```bash
 # 进入项目目录
-cd ruoyi-ui-vue
+cd rain-ui-vue
 
 # 安装依赖
 npm i
