@@ -47,7 +47,7 @@ npm build:prod
 
 <table>
   <tr>
-    <td><img src="./rain-ui-vue/img/log.png" /></td>
+    <td><img src="./rain-ui-vue/img/login.png" /></td>
   </tr>
   <tr>
     <td><img src="./rain-ui-vue/img/index.png" /></td>
